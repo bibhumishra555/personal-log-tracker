@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
     //{ log: '', time: '' }
         { log: 'wakeup', time: '07:31' },
 { log: 'college', time: '10:17' },
-{ log: 'library', time: '15:31' }
+{ log: 'library', time: '15:31' },
+{ log: 'free', time: '18:01' }
     ];
 
     // Populate the table with data
