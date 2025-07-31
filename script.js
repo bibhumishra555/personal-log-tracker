@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Sample data for the Live Tracker
     const trackerData = [
     //{ log: '', time: '' }
-        { log: 'Study', time: '22:00' },
-{ log: 'sleep', time: '23:34' }
+        { log: 'wakeup', time: '07:31' },
+//{ log: 'sleep', time: '23:34' }
     ];
 
     // Populate the table with data
