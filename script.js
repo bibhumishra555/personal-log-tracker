@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const trackerData = [
     //{ log: '', time: '' }
         { log: 'wakeup', time: '07:31' },
-//{ log: 'sleep', time: '23:34' }
+{ log: 'college', time: '10:17' }
     ];
 
     // Populate the table with data
